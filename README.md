@@ -1,8 +1,13 @@
-# GUI
-Group Name: SAJA BOYS<br>
-MEMBER NO: 3<br>
-MEMBER Name: DESPUES, CHARLZ DAVID T.<br>
-  Assigned Activities: <br>
-    #3 - Character Remover<br>
-    #4 - Food Ordering System<br>
-    #8 - Password Validator<br>
+# Java Swing GUI Project
+
+## Group Information
+**Group Name:** SAJA BOYS  
+**Member No:** 3  
+**Member Name:** Despues, Charlz David T.
+
+---
+
+## Assigned Activities
+- **#3 – Character Remover**
+- **#4 – Food Ordering System**
+- **#8 – Password Validator**
