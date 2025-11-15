@@ -1,4 +1,4 @@
-# Java Swing GUI Project
+# Java Swing GUI Activity
 
 ## Group Information
 **Group Name:**      SAJA BOYS  
